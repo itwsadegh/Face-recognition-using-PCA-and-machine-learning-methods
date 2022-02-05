@@ -1,1 +1,1 @@
-# Face-recognition-using-PCA-and-machine-learning-methods
+# Face recognition using PCA and machine learning methods
